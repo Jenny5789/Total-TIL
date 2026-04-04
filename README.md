@@ -14,10 +14,11 @@
 * [🐧 Linux 학습 기록](https://github.com/Jenny5789/Linux)
 * [🌐 Web 학습 기록](https://github.com/Jenny5789/web)
 
-## 🗓 전체 통합 학습 기록 (Master Log)
+## 💾 통합 학습 대시보드
+
 
 | 날짜 | 과목 | 주제 | 링크 |
-| :--- | :---: | :--- | :---: |
+| :--- | :--- | :--- | :---: |
 | 2026-04-04 | `💻 C++` | Chapter3(표현식과 문장)_연습문제 | [🔗](https://github.com/Jenny5789/PRG_C/tree/main/TIL/2026-04-04-C%2B%2B) |
 | 2026-04-03 | `🐧 Linux` | Linux_vi명령어 | [🔗](https://github.com/Jenny5789/Linux/blob/main/2026_04_03_Linux.ipynb) |
 | 2026-04-02 | `🐍 Python` | 코드 작성해보기_문제: 장바구니 | [🔗](https://github.com/Jenny5789/python/blob/main/TIL/2026_04_02_python.ipynb) |
@@ -27,4 +28,4 @@
 
 
 ---
-최근 업데이트: 2026-04-05
+Last updated: 2026-04-05
